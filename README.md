@@ -2,6 +2,8 @@
 ## __Executive Summary__
 The Patients Emergency Rooms Visit Report dashboard provides a comprehensive overview of patient visits to emergency rooms. It highlights key metrics, patient demographics, department referrals, and patient satisfaction levels. The data visualizations help in understanding the trends and patterns in emergency room visits, which is crucial for improving healthcare services and patient satisfaction.
 
+![image](https://github.com/Gabu6872/Patients-Emergency-Rooms-Analysis/assets/98529437/80d33830-fdb4-43c5-b284-b7791aae2d7d)
+
 ## __Business Problem__
 Emergency rooms are critical in providing immediate medical care, but they often face challenges related to patient wait times, satisfaction levels, and efficient use of resources. Understanding the demographics, referral patterns, and satisfaction levels of patients can help in addressing these challenges and improving overall service quality.
 
